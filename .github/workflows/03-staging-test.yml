@@ -1,4 +1,4 @@
-name: 03 - Test Staging
+name: 03 - Staging Test
 
 on:
   workflow_run:
